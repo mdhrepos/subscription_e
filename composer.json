@@ -1,0 +1,9 @@
+{
+  "name": "mdhrepos/subscription_e",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Woocommerce Subscriptions Enchancer WordPress plugin mirror for composer installation",
+  "keywords": [
+      "wordpress"
+  ]
+}
